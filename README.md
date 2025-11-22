@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Reyzan,<br>a vocational high school student majoring in software engineering who is currently studying programming.
+I'm Reyzan,<br>A vocational high school student majoring in software engineering who is currently studying programming.
 
 
 ## 🌐 Socials:
